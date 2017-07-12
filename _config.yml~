@@ -1,8 +1,8 @@
 name: Alpha
 description: Alphs template for Jekyll
-baseurl: 
+baseurl: '/Alpha-Jekyll-Theme'
 
-url: "http://ohmaitrain.github.io"
+url: "http://localhost:4000"
 
 paginate: 10
 
