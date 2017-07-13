@@ -4,11 +4,11 @@ layout: default
 ---
 <section class="box special">
 	<header class="major">
-		<h2>Introducing the ultimate mobile app10
+		<h2>MAI TRAN
 		<br />
-		for doing stuff with your phone</h2>
-		<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />
-		adipiscing nunc adipiscing. Condimentum turpis massa.</p>
+		</h2>
+		<p>This is my second attempt.<br />
+		</p>
 	</header>
 	<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" /></span>
 </section>
@@ -17,25 +17,25 @@ layout: default
 	<div class="features-row">
 		<section>
 			<span class="icon major fa-bolt accent2"></span>
-			<h3>Magna etiam</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<h3>Lightning</h3>
+			<p>This is a lightning bolt.</p>
 		</section>
 		<section>
 			<span class="icon major fa-area-chart accent3"></span>
-			<h3>Ipsum dolor</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<h3>Graph</h3>
+			<p>Probably something to do with statistics.</p>
 		</section>
 	</div>
 	<div class="features-row">
 		<section>
 			<span class="icon major fa-cloud accent4"></span>
-			<h3>Sed feugiat</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<h3>Cloud</h3>
+			<p>It's so floofy.</p>
 		</section>
 		<section>
 			<span class="icon major fa-lock accent5"></span>
-			<h3>Enim phasellus</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<h3>Lock</h3>
+			<p>Secrets!</p>
 		</section>
 	</div>
 </section>
@@ -45,8 +45,8 @@ layout: default
 
 		<section class="box special">
 			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-			<h3>Sed lorem adipiscing</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<h3>Pretty Road</h3>
+			<p>Pics or it didn't happen.</p>
 			<ul class="actions">
 				<li><a href="#" class="button alt">Learn More</a></li>
 			</ul>
@@ -57,8 +57,8 @@ layout: default
 
 		<section class="box special">
 			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic03.jpg" alt="" /></span>
-			<h3>Accumsan integer</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<h3>Braids.</h3>
+			<p>Blog link?</p>
 			<ul class="actions">
 				<li><a href="#" class="button alt">Learn More</a></li>
 			</ul>
