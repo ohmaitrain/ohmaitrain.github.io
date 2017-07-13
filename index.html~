@@ -7,7 +7,7 @@ layout: default
 		<h2>MAI TRAN
 		<br />
 		</h2>
-		<p>This is my second attempt.<br />
+		<p>Hello there.<br />
 		</p>
 	</header>
 	<!--<span class="image featured"><img src="{{ site.baseurl }}/assets/images/marble.jpg" alt="" /></span>-->
