@@ -16,14 +16,14 @@ layout: default
 <section class="box special features">
 	<div class="features-row">
 		<section>
-			<span class="icon major fa-bolt accent2"></span>
-			<h3>Lightning</h3>
-			<p>This is a lightning bolt.</p>
+			<span class="icon major fa-user-o accent2"></span>
+			<h3>About Me</h3>
+			<!--<p>This is a lightning bolt.</p>-->
 		</section>
 		<section>
-			<span class="icon major fa-area-chart accent3"></span>
-			<h3>Graph</h3>
-			<p>Probably something to do with statistics.</p>
+			<span class="icon major fa-file-text-o accent3"></span>
+			<h3>Resume</h3>
+			<!--<p>Probably something to do with statistics.</p>-->
 		</section>
 	</div>
 	<div class="features-row">
